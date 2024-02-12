@@ -20,23 +20,22 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "Iefan",
+  initials: "",
+  location: "Bengaluru, Karanataka, India",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "I am a cloud solution architect, Linux administrator, and developer with years of experience in creating innovative cloud architectures, managing Linux servers, and developing real-world applications.",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "realiefan@gmail.com",
+    tel: "+91-9906310007",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/realiefan",
         icon: GitHubIcon,
       },
       {
@@ -46,7 +45,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/iefansays",
         icon: XIcon,
       },
     ],
