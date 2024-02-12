@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
-  avatarUrl: "https://nostr.build/i/a7bb533ec2979cb808313b80b7de78e51dde94e7182e72238d1edc1a63eecab4.webp",
+  avatarUrl: "https://i.imgur.com/gHSAwtO.jpg",
   summary:
     "I am a cloud solution architect, Linux administrator, and developer with years of experience in creating innovative cloud architectures, managing Linux servers, and developing real-world applications.",
   personalWebsiteUrl: "https://jarocki.me",
